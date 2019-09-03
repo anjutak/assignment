@@ -1,0 +1,9 @@
+# Dependencies 
+
+Pandas - Python Data Analysis Library.
+
+To install Pandas, use pip command below.
+
+pip install pandas
+
+For more information: https://pandas.pydata.org/
