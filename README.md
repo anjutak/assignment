@@ -42,8 +42,4 @@ http://rpubs.com/Jango/486734
 
 
 
-```python
 
-```
-# assignment
-# assignment
